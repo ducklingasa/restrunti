@@ -1,0 +1,6 @@
+<extension>
+    <id>org.eu.misc-soft.restrunti</id>
+    <name>Executes a process in a remote model using the IBM Planning Analytics (TM1) REST API</name>
+    <version>0.5</version>
+    <scripts-package>cognos.tm1.tiext</scripts-package>    
+</extension>
